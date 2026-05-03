@@ -15,4 +15,3 @@ func TestGenerate(t *testing.T) {
   fixture.Assert(t, "client.ts", act.Bytes())
 }
 ```
-
